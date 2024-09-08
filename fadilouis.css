@@ -70,10 +70,7 @@
 }
 
 .phone-icon {
-   .contact-info img {
-    width: 60px;
-    vertical-align: middle;
-    margin-right: 10px; 
+width: 60px; 
 }
 
 /* Save contact button */
